@@ -1,0 +1,29 @@
+#person:
+#  lastName: 小明
+#  age: 22
+#  boss: false
+#  birth: 2011/12/30
+#  maps: {k1: v1,k2: v2}
+#  lists:
+#    - list1
+#    - list2
+#  dog:
+#    name: '泰/n迪'
+#    age: 2
+server:
+  port: 8083
+spring:
+  profiles:
+    active: prod
+
+---
+server:
+  port: 8084
+spring:
+  profiles: dev
+
+---
+server:
+  port: 8085
+spring:
+  profiles: prod  #指定属于哪个环境
