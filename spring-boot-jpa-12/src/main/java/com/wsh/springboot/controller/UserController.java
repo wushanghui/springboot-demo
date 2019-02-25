@@ -22,6 +22,7 @@ public class UserController {
     @GetMapping("/getUserById/{id}")
     @ResponseBody
     public User getUserById(@PathVariable("id") Integer id) {
+        //此处用getOne() 会报错
         User user = userRepository.findOne(id);
         return user;
     }
