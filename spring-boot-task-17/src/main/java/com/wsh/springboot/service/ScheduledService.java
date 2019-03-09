@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class ScheduledService {
 
-    @Scheduled(cron = "0,1,2,3,4,5 * * * * MON-FRI")
+    //@Scheduled(cron = "0/2 * * * * ?")
     public void cronTest() {
         System.out.println("cronTest() ....");
     }
