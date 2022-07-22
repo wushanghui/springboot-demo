@@ -1,4 +1,4 @@
-package com.wsh.springboot.bean;
+package com.wushanghui.springboot.bean;
 
 import java.io.Serializable;
 

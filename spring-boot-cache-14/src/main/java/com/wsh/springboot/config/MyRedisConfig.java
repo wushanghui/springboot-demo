@@ -1,7 +1,7 @@
-package com.wsh.springboot.config;
+package com.wushanghui.springboot.config;
 
-import com.wsh.springboot.bean.Department;
-import com.wsh.springboot.bean.Employee;
+import com.wushanghui.springboot.bean.Department;
+import com.wushanghui.springboot.bean.Employee;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

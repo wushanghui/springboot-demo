@@ -1,4 +1,4 @@
-package com.wsh.springboot.config.bean;
+package com.wushanghui.springboot.config.bean;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.ConfigurationProperties;

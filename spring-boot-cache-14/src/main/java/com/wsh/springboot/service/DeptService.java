@@ -1,7 +1,7 @@
-package com.wsh.springboot.service;
+package com.wushanghui.springboot.service;
 
-import com.wsh.springboot.bean.Department;
-import com.wsh.springboot.mapper.DepartmentMapper;
+import com.wushanghui.springboot.bean.Department;
+import com.wushanghui.springboot.mapper.DepartmentMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.cache.Cache;

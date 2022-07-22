@@ -1,10 +1,10 @@
-package com.wsh.springboot.dao;
+package com.wushanghui.springboot.dao;
 
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.wsh.springboot.entities.Department;
+import com.wushanghui.springboot.entities.Department;
 import org.springframework.stereotype.Repository;
 
 

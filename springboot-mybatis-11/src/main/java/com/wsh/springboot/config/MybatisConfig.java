@@ -1,4 +1,4 @@
-package com.wsh.springboot.config;
+package com.wushanghui.springboot.config;
 
 import org.apache.ibatis.session.Configuration;
 import org.mybatis.spring.boot.autoconfigure.ConfigurationCustomizer;

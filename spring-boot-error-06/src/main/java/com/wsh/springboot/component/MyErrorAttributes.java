@@ -1,4 +1,4 @@
-package com.wsh.springboot.component;
+package com.wushanghui.springboot.component;
 
 import org.springframework.boot.autoconfigure.web.DefaultErrorAttributes;
 import org.springframework.stereotype.Component;

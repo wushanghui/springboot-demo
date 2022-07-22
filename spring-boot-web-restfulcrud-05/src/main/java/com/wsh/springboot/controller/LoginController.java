@@ -1,4 +1,4 @@
-package com.wsh.springboot.controller;
+package com.wushanghui.springboot.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.util.StringUtils;

@@ -1,6 +1,6 @@
-package com.wsh.springboot.controller;
+package com.wushanghui.springboot.controller;
 
-import com.wsh.springboot.exception.UserNotExistException;
+import com.wushanghui.springboot.exception.UserNotExistException;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

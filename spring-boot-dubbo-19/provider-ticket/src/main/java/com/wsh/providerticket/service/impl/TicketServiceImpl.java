@@ -1,7 +1,7 @@
-package com.wsh.providerticket.service.impl;
+package com.wushanghui.providerticket.service.impl;
 
 import com.alibaba.dubbo.config.annotation.Service;
-import com.wsh.providerticket.service.TicketService;
+import com.wushanghui.providerticket.service.TicketService;
 import org.springframework.stereotype.Component;
 
 

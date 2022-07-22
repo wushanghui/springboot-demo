@@ -1,4 +1,4 @@
-package com.wsh.springboot.entities;
+package com.wushanghui.springboot.entities;
 
 import java.util.Date;
 

@@ -1,6 +1,6 @@
-package com.wsh.springboot.config;
+package com.wushanghui.springboot.config;
 
-import com.wsh.springboot.config.bean.Person;
+import com.wushanghui.springboot.config.bean.Person;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

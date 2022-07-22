@@ -1,4 +1,4 @@
-package com.wsh.springboot.servlet;
+package com.wushanghui.springboot.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

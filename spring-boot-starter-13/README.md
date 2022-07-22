@@ -24,7 +24,7 @@ wsh-spring-boot-starter 让其他工程依赖的 starter<br/>
 <dependencies>
     <!-- 引入自动配置模块 -->
     <dependency>
-        <groupId>com.wsh.starter</groupId>
+        <groupId>com.wushanghui.starter</groupId>
         <artifactId>wsh-spring-boot-starter-autoconfigurer</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </dependency>
@@ -48,7 +48,7 @@ spring-boot-starter-test 测试模块<br/>
 ```xml
 <!-- 引入自定义的starter -->
 <dependency>
-    <groupId>com.wsh.starter</groupId>
+    <groupId>com.wushanghui.starter</groupId>
     <artifactId>wsh-spring-boot-starter</artifactId>
     <version>1.0-SNAPSHOT</version>
 </dependency>

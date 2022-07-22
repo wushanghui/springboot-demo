@@ -1,4 +1,4 @@
-package com.wsh.starter;
+package com.wushanghui.starter;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

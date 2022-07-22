@@ -1,6 +1,6 @@
-package com.wsh.consumeruser;
+package com.wushanghui.consumeruser;
 
-import com.wsh.user.service.UserService;
+import com.wushanghui.user.service.UserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

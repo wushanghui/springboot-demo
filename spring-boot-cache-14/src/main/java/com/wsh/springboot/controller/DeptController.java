@@ -1,7 +1,7 @@
-package com.wsh.springboot.controller;
+package com.wushanghui.springboot.controller;
 
-import com.wsh.springboot.bean.Department;
-import com.wsh.springboot.service.DeptService;
+import com.wushanghui.springboot.bean.Department;
+import com.wushanghui.springboot.service.DeptService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

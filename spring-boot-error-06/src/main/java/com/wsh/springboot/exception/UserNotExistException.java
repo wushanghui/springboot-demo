@@ -1,4 +1,4 @@
-package com.wsh.springboot.exception;
+package com.wushanghui.springboot.exception;
 
 /**
  * @author：Administrator

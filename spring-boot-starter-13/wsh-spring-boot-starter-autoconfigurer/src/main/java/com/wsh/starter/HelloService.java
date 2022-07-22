@@ -1,4 +1,4 @@
-package com.wsh.starter;
+package com.wushanghui.starter;
 
 /**
  * @author jue

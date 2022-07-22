@@ -1,4 +1,4 @@
-package com.wsh.springboot.amqp;
+package com.wushanghui.springboot.amqp;
 
 import org.springframework.amqp.rabbit.annotation.EnableRabbit;
 import org.springframework.boot.SpringApplication;

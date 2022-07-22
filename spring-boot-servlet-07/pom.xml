@@ -8,7 +8,7 @@
 		<version>1.5.19.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.wsh</groupId>
+	<groupId>com.wushanghui</groupId>
 	<artifactId>spring-boot-servlet-07</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-servlet</name>

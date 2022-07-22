@@ -1,4 +1,4 @@
-package com.wsh.springboot.amqp.config;
+package com.wushanghui.springboot.amqp.config;
 
 import org.springframework.amqp.support.converter.Jackson2JsonMessageConverter;
 import org.springframework.amqp.support.converter.MessageConverter;

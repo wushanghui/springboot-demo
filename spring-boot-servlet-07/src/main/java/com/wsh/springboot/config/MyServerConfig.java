@@ -1,8 +1,8 @@
-package com.wsh.springboot.config;
+package com.wushanghui.springboot.config;
 
-import com.wsh.springboot.filter.Myfilter;
-import com.wsh.springboot.listener.MyListener;
-import com.wsh.springboot.servlet.MyServlet;
+import com.wushanghui.springboot.filter.Myfilter;
+import com.wushanghui.springboot.listener.MyListener;
+import com.wushanghui.springboot.servlet.MyServlet;
 import org.springframework.boot.context.embedded.ConfigurableEmbeddedServletContainer;
 import org.springframework.boot.context.embedded.EmbeddedServletContainerCustomizer;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;

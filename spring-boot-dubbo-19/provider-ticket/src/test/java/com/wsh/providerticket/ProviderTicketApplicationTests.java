@@ -1,4 +1,4 @@
-package com.wsh.providerticket;
+package com.wushanghui.providerticket;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.wsh.springboot.config;
+package com.wushanghui.springboot.config;
 
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

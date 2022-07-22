@@ -1,6 +1,6 @@
-package com.wsh.springboot.amqp.service;
+package com.wushanghui.springboot.amqp.service;
 
-import com.wsh.springboot.amqp.bean.Book;
+import com.wushanghui.springboot.amqp.bean.Book;
 import org.springframework.amqp.core.Message;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.wsh.springboot.amqp.bean;
+package com.wushanghui.springboot.amqp.bean;
 
 import java.io.Serializable;
 

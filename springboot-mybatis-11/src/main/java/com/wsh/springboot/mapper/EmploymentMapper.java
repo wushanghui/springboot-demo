@@ -1,6 +1,6 @@
-package com.wsh.springboot.mapper;
+package com.wushanghui.springboot.mapper;
 
-import com.wsh.springboot.bean.Employee;
+import com.wushanghui.springboot.bean.Employee;
 
 /**
  * @author jue

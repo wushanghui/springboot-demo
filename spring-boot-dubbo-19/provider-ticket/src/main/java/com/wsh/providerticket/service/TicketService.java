@@ -1,4 +1,4 @@
-package com.wsh.providerticket.service;
+package com.wushanghui.providerticket.service;
 
 public interface TicketService {
 

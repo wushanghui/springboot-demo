@@ -1,9 +1,9 @@
-package com.wsh.springboot;
+package com.wushanghui.springboot;
 
 import com.alibaba.fastjson.JSON;
-import com.wsh.springboot.bean.Department;
-import com.wsh.springboot.bean.Employee;
-import com.wsh.springboot.mapper.EmployeeMapper;
+import com.wushanghui.springboot.bean.Department;
+import com.wushanghui.springboot.bean.Employee;
+import com.wushanghui.springboot.mapper.EmployeeMapper;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.wsh.springboot.config;
+package com.wushanghui.springboot.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.druid.support.http.StatViewServlet;

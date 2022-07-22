@@ -1,4 +1,4 @@
-package com.wsh.springboot;
+package com.wushanghui.springboot;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
@@ -38,7 +38,7 @@ import org.springframework.cache.annotation.EnableCaching;
  *      4）、自定义CacheManager；
  *
  */
-@MapperScan("com.wsh.springboot.mapper")
+@MapperScan("com.wushanghui.springboot.mapper")
 @SpringBootApplication
 @EnableCaching //开启缓存
 public class SpringBootCache14Application {

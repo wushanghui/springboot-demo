@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.wsh.starter</groupId>
+    <groupId>com.wushanghui.starter</groupId>
     <artifactId>wsh-spring-boot-starter</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -12,7 +12,7 @@
     <dependencies>
         <!-- 引入自动配置模块 -->
         <dependency>
-            <groupId>com.wsh.starter</groupId>
+            <groupId>com.wushanghui.starter</groupId>
             <artifactId>wsh-spring-boot-starter-autoconfigurer</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>

@@ -1,8 +1,8 @@
-package com.wsh.springboot;
+package com.wushanghui.springboot;
 
-import com.wsh.springboot.bean.Article;
-import com.wsh.springboot.bean.Book;
-import com.wsh.springboot.repository.BookRepository;
+import com.wushanghui.springboot.bean.Article;
+import com.wushanghui.springboot.bean.Book;
+import com.wushanghui.springboot.repository.BookRepository;
 import io.searchbox.client.JestClient;
 import io.searchbox.core.Index;
 import io.searchbox.core.Search;

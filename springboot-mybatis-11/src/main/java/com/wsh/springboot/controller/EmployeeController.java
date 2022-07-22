@@ -1,7 +1,7 @@
-package com.wsh.springboot.controller;
+package com.wushanghui.springboot.controller;
 
-import com.wsh.springboot.bean.Employee;
-import com.wsh.springboot.mapper.EmploymentMapper;
+import com.wushanghui.springboot.bean.Employee;
+import com.wushanghui.springboot.mapper.EmploymentMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

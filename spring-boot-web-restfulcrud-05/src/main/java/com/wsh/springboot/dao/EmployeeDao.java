@@ -1,7 +1,7 @@
-package com.wsh.springboot.dao;
+package com.wushanghui.springboot.dao;
 
-import com.wsh.springboot.entities.Department;
-import com.wsh.springboot.entities.Employee;
+import com.wushanghui.springboot.entities.Department;
+import com.wushanghui.springboot.entities.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

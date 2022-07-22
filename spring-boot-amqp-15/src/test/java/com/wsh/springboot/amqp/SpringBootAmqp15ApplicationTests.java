@@ -1,6 +1,6 @@
-package com.wsh.springboot.amqp;
+package com.wushanghui.springboot.amqp;
 
-import com.wsh.springboot.amqp.bean.Book;
+import com.wushanghui.springboot.amqp.bean.Book;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.amqp.core.AmqpAdmin;

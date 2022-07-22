@@ -8,7 +8,7 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.wsh</groupId>
+	<groupId>com.wushanghui</groupId>
 	<artifactId>spring-boot-helloworld-quick-02</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>helloworld-quick</name>

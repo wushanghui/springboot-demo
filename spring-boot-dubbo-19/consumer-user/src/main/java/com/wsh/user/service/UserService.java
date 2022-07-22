@@ -1,8 +1,8 @@
-package com.wsh.user.service;
+package com.wushanghui.user.service;
 
 
 import com.alibaba.dubbo.config.annotation.Reference;
-import com.wsh.ticket.service.TicketService;
+import com.wushanghui.ticket.service.TicketService;
 import org.springframework.stereotype.Service;
 
 @Service

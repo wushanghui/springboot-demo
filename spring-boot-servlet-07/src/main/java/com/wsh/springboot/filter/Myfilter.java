@@ -1,4 +1,4 @@
-package com.wsh.springboot.filter;
+package com.wushanghui.springboot.filter;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,9 +1,9 @@
-package com.wsh.springboot.controller;
+package com.wushanghui.springboot.controller;
 
-import com.wsh.springboot.dao.DepartmentDao;
-import com.wsh.springboot.dao.EmployeeDao;
-import com.wsh.springboot.entities.Department;
-import com.wsh.springboot.entities.Employee;
+import com.wushanghui.springboot.dao.DepartmentDao;
+import com.wushanghui.springboot.dao.EmployeeDao;
+import com.wushanghui.springboot.entities.Department;
+import com.wushanghui.springboot.entities.Employee;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

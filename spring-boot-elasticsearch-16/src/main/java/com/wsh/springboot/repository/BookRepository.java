@@ -1,6 +1,6 @@
-package com.wsh.springboot.repository;
+package com.wushanghui.springboot.repository;
 
-import com.wsh.springboot.bean.Book;
+import com.wushanghui.springboot.bean.Book;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
 
 import java.util.List;

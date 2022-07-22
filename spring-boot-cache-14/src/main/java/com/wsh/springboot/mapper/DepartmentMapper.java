@@ -1,6 +1,6 @@
-package com.wsh.springboot.mapper;
+package com.wushanghui.springboot.mapper;
 
-import com.wsh.springboot.bean.Department;
+import com.wushanghui.springboot.bean.Department;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 

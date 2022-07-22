@@ -1,4 +1,4 @@
-package com.wsh.springboot.service;
+package com.wushanghui.springboot.service;
 
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;

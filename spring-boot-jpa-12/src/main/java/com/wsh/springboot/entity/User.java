@@ -1,4 +1,4 @@
-package com.wsh.springboot.entity;
+package com.wushanghui.springboot.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

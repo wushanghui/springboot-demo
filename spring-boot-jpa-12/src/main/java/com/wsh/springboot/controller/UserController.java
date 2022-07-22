@@ -1,7 +1,7 @@
-package com.wsh.springboot.controller;
+package com.wushanghui.springboot.controller;
 
-import com.wsh.springboot.entity.User;
-import com.wsh.springboot.repository.UserRepository;
+import com.wushanghui.springboot.entity.User;
+import com.wushanghui.springboot.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

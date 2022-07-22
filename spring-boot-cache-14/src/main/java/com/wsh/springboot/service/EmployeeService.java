@@ -1,7 +1,7 @@
-package com.wsh.springboot.service;
+package com.wushanghui.springboot.service;
 
-import com.wsh.springboot.bean.Employee;
-import com.wsh.springboot.mapper.EmployeeMapper;
+import com.wushanghui.springboot.bean.Employee;
+import com.wushanghui.springboot.mapper.EmployeeMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.*;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.wsh.springboot.config.bean;
+package com.wushanghui.springboot.config.bean;
 
 /**
  * @author：Administrator

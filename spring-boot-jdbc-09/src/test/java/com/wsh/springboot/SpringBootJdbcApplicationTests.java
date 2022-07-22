@@ -1,4 +1,4 @@
-package com.wsh.springboot;
+package com.wushanghui.springboot;
 
 import org.apache.tomcat.jdbc.pool.DataSource;
 import org.junit.Test;

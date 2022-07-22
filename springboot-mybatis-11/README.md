@@ -12,7 +12,7 @@
 @Mapper
 public interface DepartmentMapper(){}
 
-//也可在application启动类上加入 @MapperScan(value = "com.wsh.springboot.mapper")
+//也可在application启动类上加入 @MapperScan(value = "com.wushanghui.springboot.mapper")
 ```
 ## 3 配置文件版
 在application.yml 文件中配置：
@@ -40,8 +40,8 @@ mapper xml 文件：
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.wsh.springboot.mapper.EmploymentMapper">
-    <select id="getEmpById" resultType="com.wsh.springboot.bean.Employee">
+<mapper namespace="com.wushanghui.springboot.mapper.EmploymentMapper">
+    <select id="getEmpById" resultType="com.wushanghui.springboot.bean.Employee">
         select * from employee where id = #{id}
     </select>
     <insert id="insertEmp">

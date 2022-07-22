@@ -1,4 +1,4 @@
-package com.wsh.springboot.component;
+package com.wushanghui.springboot.component;
 
 import org.springframework.util.ObjectUtils;
 import org.springframework.web.servlet.HandlerInterceptor;

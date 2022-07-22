@@ -1,7 +1,7 @@
-package com.wsh.springboot.config;
+package com.wushanghui.springboot.config;
 
-import com.wsh.springboot.component.LoginHandlerInterceptor;
-import com.wsh.springboot.component.MyLocaleResolver;
+import com.wushanghui.springboot.component.LoginHandlerInterceptor;
+import com.wushanghui.springboot.component.MyLocaleResolver;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.LocaleResolver;

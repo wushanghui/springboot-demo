@@ -1,6 +1,6 @@
-package com.wsh.springboot.repository;
+package com.wushanghui.springboot.repository;
 
-import com.wsh.springboot.entity.User;
+import com.wushanghui.springboot.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

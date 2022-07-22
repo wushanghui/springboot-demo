@@ -12,7 +12,7 @@
 		<version>1.5.10.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.wsh</groupId>
+	<groupId>com.wushanghui</groupId>
 	<artifactId>spring-boot-jpa-10</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-jpa</name>

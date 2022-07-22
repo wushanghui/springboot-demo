@@ -1,4 +1,4 @@
-package com.wsh.springboot;
+package com.wushanghui.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

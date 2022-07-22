@@ -1,4 +1,4 @@
-package com.wsh.springboot.listener;
+package com.wushanghui.springboot.listener;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

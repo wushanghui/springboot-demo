@@ -1,4 +1,4 @@
-package com.wsh.springboot.config;
+package com.wushanghui.springboot.config;
 
 import org.springframework.cache.interceptor.KeyGenerator;
 import org.springframework.context.annotation.Bean;

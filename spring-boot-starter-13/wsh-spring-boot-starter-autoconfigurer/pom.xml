@@ -8,7 +8,7 @@
         <version>1.5.10.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.wsh.starter</groupId>
+    <groupId>com.wushanghui.starter</groupId>
     <artifactId>wsh-spring-boot-starter-autoconfigurer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>wsh-spring-boot-starter-autoconfigurer</name>

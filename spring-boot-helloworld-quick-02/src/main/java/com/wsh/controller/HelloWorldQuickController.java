@@ -1,4 +1,4 @@
-package com.wsh.controller;
+package com.wushanghui.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

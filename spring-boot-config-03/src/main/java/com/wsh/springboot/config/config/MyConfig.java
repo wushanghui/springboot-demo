@@ -1,6 +1,6 @@
-package com.wsh.springboot.config.config;
+package com.wushanghui.springboot.config.config;
 
-import com.wsh.springboot.config.service.HelloService;
+import com.wushanghui.springboot.config.service.HelloService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
